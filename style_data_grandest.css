@@ -351,10 +351,10 @@
         .title-head {
             position: relative;
             font-weight: bold;
-            font-size: 40px;
+            font-size: 33px;
             color: white;
             text-align: center;
-            margin-top: -5px;
+            margin-top: -15px;
         }
 
         /* Conteneur pour l'image */
